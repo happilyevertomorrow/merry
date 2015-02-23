@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>Creating an Internet Page</title>
+</head>
+
+<img src="bell.gif" style="float:right">
+<img src="bell.gif" style="float:left">
+<body style="text-align:center;font-size:48;background-color:red;color:white;font-family:KaiTi"><br /><span style="font-weight:bold;font-style:Italic;font-size:56">The Grinch</span><br /><br />by<br /><br />Joanna Riascos<br /><br />
+<img src="santa_on_sled.gif">
+<p style="text-align:center;font-size:28;font-family:Tempus Sans ITC;color:YellowGreen">You're a mean one, Mr. Grinch.<br />
+You really are a heel.<br />
+You're as cuddly as a cactus,<br />
+You're as charming as an eel.<br />
+Mr. Grinch.<br />
+<br />
+You're a bad banana<br />
+With a greasy black peel.<br />
+<br />
+You're a monster, Mr. Grinch.<br />
+Your heart's an empty hole.<br />
+Your brain is full of spiders,<br />
+You've got garlic in your soul.<br />
+Mr. Grinch.<br />
+<br />
+I wouldn't touch you, with a<br />
+thirty-nine-and-a-half foot pole.<br />
+<br />
+You're a vile one, Mr. Grinch.<br />
+You have termites in your smile.<br />
+You have all the tender sweetness<br />
+Of a seasick crocodile.<br />
+Mr. Grinch.<br />
+<br />
+
+
+<a href="http://www.the-north-pole.com/"><p style="font-weight:bold;font-family:Chiller">Click me!</a></p></body>
+
+
+<img src="hold_on_cindy_lou_who_by_neonglo-d34dp8o.jpg" alt="width="250" style="float:center"
+onmouseover="src='cindy_lou-page2249.jpg'"
+onmouseout="src='hold_on_cindy_lou_who_by_neonglo-d34dp8o.jpg'">
+<img src="The-Grinch-Benz-and-a-Backpack.jpg" alt="width="260" height="325" style="float:center"
+onmouseover="src='GrinchCindyPic.jpg'"
+onmouseout="src='The-Grinch-Benz-and-a-Backpack.jpg'">
+</html>
+        
+<!DOCTYPE html PUBLIC
+              "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <title>Hello World!JavaScript</title>
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+   function WelcomeMessage()
+{
+alert ('Welcome. :)')
+}
+function GoodbyeMessage()
+{
+alert ('Have a Holly, Jolly Christmas!')
+}
+
+WelcomeMessage()
+
+-->
+</script>
+</head>
+</html>
+
+<script language="Javascript" type="text/javascript">
+<!--
+var grinch
+
+      /*The purpose of this webpage
+        is to convice a person to
+        spread holiday spirit.*/
+
+    grinch=prompt('Whose a mean one?', 'Mr.Grinch')
+    if (grinch == 'Mr.Grinch')
+      
+       {
+
+       alert ('No you are.')
+
+       }
+        
+       else
+        
+       {
+       
+       alert ('That is not correct.')
+
+       }
+
+GoodbyeMessage()
+
+  -->       
+
+    </script>
+ </body>
+</html>
+
+
+    
